@@ -2,8 +2,9 @@ pandas
 numpy
 seaborn
 scikit-learn
-dill
-pickle
+# dill
+# pickle
 catboost
 xgboost
+Flask
 # -e .
